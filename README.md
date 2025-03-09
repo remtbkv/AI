@@ -1,2 +1,2 @@
 # AI
-AI 1 and 2
+TJHSST AI Eckel (2023-2024)
