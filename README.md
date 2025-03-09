@@ -1,2 +1,1 @@
-# AI
-TJHSST AI Eckel (2023-2024)
+Labs
